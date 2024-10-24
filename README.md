@@ -1,5 +1,5 @@
-### Date:
-# Ex-10:IMPLEMENT:DIFFIE-HELLMAN-KEY-EXCHANGE
+### Date:28.09.2024
+# Ex-10: Implement:Diffe-Hellman-Key-Exchange
 ## AIM:
 To implement the Diffie-Hellman Key Exchange algorithm using C language.
 
