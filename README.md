@@ -1,4 +1,4 @@
-### Date:28.09.2024
+### Date: 28.09.2024
 # Ex-10: Implement:Diffe-Hellman-Key-Exchange
 ## AIM:
 To implement the Diffie-Hellman Key Exchange algorithm using C language.
@@ -23,7 +23,7 @@ Similarly Bob also selects a public key b and computes his secret key as B and s
 Now both of them compute their common secret key as the other one’s secret key power of a mod p.
 
 ## PROGRAM:
-```py
+```
 #include <stdio.h>
 long long int mod_exp(long long int base, long long int exp, long long int mod) {
     long long int result = 1;
